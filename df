@@ -1,0 +1,13 @@
+[33mcommit 4d683a00d0c66bbf41803746d372b25ee22692cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Targat <ztargat@gmail.com>
+Date:   Tue Feb 23 18:29:21 2021 +0600
+
+    second mod
+
+[1mdiff --git a/main.py b/main.py[m
+[1mindex c57eff5..e69de29 100644[m
+[1m--- a/main.py[m
+[1m+++ b/main.py[m
+[36m@@ -1 +0,0 @@[m
+[31m-Hello World![m
+\ No newline at end of file[m
